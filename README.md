@@ -4,8 +4,8 @@ This is the final project for COMP562 Introduction to Machine Learning at UNC_Ch
 
 Team members:
 Ahsan Mahmood
-PID: 720521652, 
+720521652, 
 Haochen Qi
-PID: 730371025, 
+730371025, 
 Yan Li
-PID: 730370973
+730370973
